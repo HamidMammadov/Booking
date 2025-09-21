@@ -1,4 +1,4 @@
-# Booking API – Lodging Availability
+# Booking API – Home Availability
 
 This project is a sample **ASP.NET Core 9 Web API** that demonstrates how to build a clean and testable application for querying homes available in a given date range.  
 
